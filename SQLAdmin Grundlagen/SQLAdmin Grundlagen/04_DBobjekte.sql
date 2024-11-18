@@ -40,7 +40,6 @@ sind extrem praktisch
 select f(sP)m f(Wert) from f(Wert) where f(sp) < f(wert)
 
 
-
 */
 
 use northwind;

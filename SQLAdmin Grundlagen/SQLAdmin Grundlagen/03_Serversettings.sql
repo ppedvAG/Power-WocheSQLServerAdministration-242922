@@ -1,5 +1,4 @@
 /*
-
 #DB Pfade
 ----------------------
 IST: c:\Program Files.... NULL Gedanken wg HDD.. Doch gterade hier kann man viel Performance gewinnen
