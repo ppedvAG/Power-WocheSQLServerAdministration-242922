@@ -76,11 +76,35 @@
           <AssociatedConnUserName />
           <FullPath>09_Proxykonto.sql</FullPath>
         </FileNode>
+        <FileNode Name="12_Backup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12_Backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_Restore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12_Restore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_backupStrategie.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13_backupStrategie.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_instnwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_instnwnd.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
