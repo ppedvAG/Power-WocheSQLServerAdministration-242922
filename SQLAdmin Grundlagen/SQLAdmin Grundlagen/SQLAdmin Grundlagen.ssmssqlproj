@@ -53,8 +53,8 @@
           <FullPath>05_SystemDBs.sql</FullPath>
         </FileNode>
         <FileNode Name="06_Operatoren.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>06_Operatoren.sql</FullPath>
         </FileNode>
@@ -76,6 +76,12 @@
           <AssociatedConnUserName />
           <FullPath>09_Proxykonto.sql</FullPath>
         </FileNode>
+        <FileNode Name="11_Snapshot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_Snapshot.sql</FullPath>
+        </FileNode>
         <FileNode Name="12_Backup.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -93,6 +99,24 @@
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>13_backupStrategie.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14__Security.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14__Security.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_VerwaisteUser.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15_VerwaisteUser.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_Containted Databases.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18_Containted Databases.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
