@@ -52,6 +52,12 @@
           <AssociatedConnUserName />
           <FullPath>03_DBSettings.sql</FullPath>
         </FileNode>
+        <FileNode Name="04_Kompression.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Kompression.sql</FullPath>
+        </FileNode>
         <FileNode Name="04_part Sicht.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
