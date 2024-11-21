@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLMonitoring", "SQLMonitoring\SQLMonitoring.ssmssqlproj", "{2184D51C-45E9-4DD8-92E1-DF59B248DECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2184D51C-45E9-4DD8-92E1-DF59B248DECC}.Default|Default.ActiveCfg = Default
+		{596B66A1-28B7-47F7-B18E-9B9628EDDE43}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4BC9BF8-CE24-4559-932E-49D24927C6B3}
+	EndGlobalSection
+EndGlobal
